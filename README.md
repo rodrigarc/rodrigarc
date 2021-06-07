@@ -1,3 +1,6 @@
+![Rodrigarc's github stats](https://github-readme-stats.vercel.app/api?username=rodrigarc&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigarc&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Rodrigo, I am currently a researcher in Karolinska Institutet, Sweden. 
