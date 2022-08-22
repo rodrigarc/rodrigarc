@@ -2,7 +2,7 @@
 
 I am Rodrigo! I am currently a PhD student in Karolinska Institutet, Sweden. 
 
-Feel free to check my repos and also my personal website [here](www.rodrigarc.github.io).
+Feel free to check my repos and also my personal website [here](https://rodrigarc.github.io/).
 
 If you want to contact me, my email is rodrigo.arcoverde@ki.se.
 
