@@ -4,9 +4,7 @@ I am [__Rodrigo Arcoverde Cerveira__](https://orcid.org/0000-0002-1145-2534) <a 
 
 Feel free to check my repos and also my personal website [here](https://rodrigarc.github.io/).
 
-If you want to contact me, my email is rodrigo.arcoverde@ki.se.
-
-🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈
+If you want to contact me, my email is rodrigo.arcoverde@ki.se
 
 
 # My Programming Stats
