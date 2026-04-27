@@ -12,3 +12,5 @@ If you want to contact me, my email is rodrigo.arcoverde@ki.se
 ![Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
+
+ps.: top languages have HTML and Jupyter Notebook hidden to avoid overepresentation of those based on rendered files. 
